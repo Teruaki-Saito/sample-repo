@@ -1,3 +1,6 @@
 # sample-repo
 Git練習用
-更新
+
+<command>
+git log: commitのログをみることができる。
+    ・originはremote, HEADは現在ブランチの認識でよい。
