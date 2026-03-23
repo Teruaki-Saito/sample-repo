@@ -12,3 +12,6 @@ git ls-files:　トラックしているファイルを表示する
 cat README.md: 中身を見る
 touch newfile.txt: fileを作成する
 echo "modify" > newfile.txt: 書き込みする
+
+## claude
+- claude codeを使って、githubの未マージPRをNotionに記載する。
